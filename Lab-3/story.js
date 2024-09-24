@@ -14,7 +14,7 @@ var customName = document.getElementById("customname");
 var randomize = document.querySelector(".randomize");
 var story = document.querySelector(".story");
 
-/* STEP 3: Create the variable that contains the story string that will be modified - use var storyText to contain the following:
+/* STEP 3: Update Create the variable that contains the story string that will be modified - use var storyText to contain the following:
 'It was 94 fahrenheit outside, so :insertx: went for a walk. When they got to :inserty:, they stared in horror for a few moments, then :insertz:. Bob saw the whole thing, but he was not surprised — :insertx: weighs 300 pounds, and it was a hot day.'
 */
 var storyText =
